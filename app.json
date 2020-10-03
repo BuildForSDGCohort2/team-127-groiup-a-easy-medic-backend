@@ -1,0 +1,12 @@
+{
+  "name": "EASYMEDIC",
+  "displayName": "EASYMEDIC",
+  "expo": {
+    "name": "EASYMEDIC",
+    "slug": "EASYMEDIC",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
